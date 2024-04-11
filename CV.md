@@ -7,6 +7,12 @@ University of Texas Austin
 contact information:
 wangmar000@mysbisd.org
 ---------------------------
+Endorsement:
+STEM Endorsement
+---------------------------
+CTE Pathway:
+Programming and Software development
+---------------------------
 clubs/teams:
   * robotics
     - Part of the Board
